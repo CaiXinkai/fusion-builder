@@ -1,0 +1,6 @@
+MIT License
+
+Copyright (c) 2026
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+(将 MIT license 的完整文本放在此处，或者替换为你偏好的开源许可)

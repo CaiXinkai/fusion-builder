@@ -1,0 +1,4 @@
+PyQt5>=5.15
+pyfaidx>=0.9.0
+biopython>=1.79
+pandas>=1.3
